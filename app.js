@@ -1,0 +1,1 @@
+var p1 = window.document.getElementsByTagName('p')[0]

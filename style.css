@@ -1,0 +1,10 @@
+body {
+    background: rgb(112, 245, 250);
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    font: normal 15pt Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(15, 11, 238);
+}
